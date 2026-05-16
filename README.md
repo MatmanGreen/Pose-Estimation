@@ -10,7 +10,7 @@ The goal was to:
 - classify door edges,
 - estimate door corner positions.
 
-The project was developed as part of a university laboratory exercise in Machine Vision at THWS. :contentReference[oaicite:0]{index=0}
+The project was developed as part of a university laboratory exercise in Machine Vision at THWS.
 
 ---
 
@@ -102,4 +102,4 @@ The goal of this repository is to document practical experience with:
 ## Reference
 
 THWS laboratory exercise:
-"Matlab Praktikum – Maschinelles Sehen – Testat" :contentReference[oaicite:1]{index=1}
+"Matlab Praktikum – Maschinelles Sehen – Testat"
